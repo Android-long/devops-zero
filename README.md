@@ -14,3 +14,4 @@ Public
 - [ ] Day 2: git workflow + ssh keys
 - [ ] Day 3: simple app + tests
 - [ ] Day 4: Dockerfile (проверка в CI)
+[![ci](https://github.com/Android-long/devops-zero/actions/workflows/ci.yml/badge.svg)](https://github.com/Android-long/devops-zero/actions/workflows/ci.yml)
